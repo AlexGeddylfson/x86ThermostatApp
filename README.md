@@ -42,25 +42,20 @@ Download the appropriate version from [Releases](../../releases) and run it. As 
 ## Screenshots
 
 ### Main Interface
-![Home Screen](https://github.com/AlexGeddylfson/x86ThermostatApp/blob/main/Screenshot_20251207_012243.jpg)
 The main screen displays all connected devices with real-time status. Long-press any thermostat icon to view detailed state information. Tap to view temperature history for that specific device.
 
+<img src="https://github.com/AlexGeddylfson/x86ThermostatApp/blob/main/Screenshot_20251207_012243.jpg" width="300">
 
 ### Previous States
 View the last 20+ state changes across all devices, filterable by device. Shows mode transitions (cooling, heating, emergency heat, etc.) with precise timestamps.
 
-![Previous States Screen](https://github.com/AlexGeddylfson/x86ThermostatApp/blob/main/Screenshot_20251207_012306.jpg)
-*State history with device filtering*
+<img src="https://github.com/AlexGeddylfson/x86ThermostatApp/blob/main/Screenshot_20251207_012306.jpg" width="300">
 
 ### Temperature History
-Interactive graph showing historical temperature data with:
-- Multiple time ranges (24 hours, 7 days, 30 days)
-- Multi-device comparison with color-coded lines
-- Detailed list view with humidity readings
-- Touch-to-view specific data points
+Interactive graph showing historical temperature data with multiple time ranges (24 hours, 7 days, 30 days), multi-device comparison with color-coded lines, detailed list view with humidity readings, and touch-to-view specific data points.
 
-![Historical Temperatures](https://github.com/AlexGeddylfson/x86ThermostatApp/blob/main/Screenshot_20251207_012259.jpg)
-*Temperature graphing with 24h/7d/30d time ranges*
+<img src="https://github.com/AlexGeddylfson/x86ThermostatApp/blob/main/Screenshot_20251207_012259.jpg" width="300">
+
 
 ## Supported Platforms
 
