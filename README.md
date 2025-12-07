@@ -103,6 +103,4 @@ Windows builds require Windows, macOS builds require macOS, etc. Each platform r
 - [x86Thermostat](https://github.com/AlexGeddylfson/x86Thermostat) - Main server implementation (C#)
 - Thermostat hardware implementations (Raspberry Pi, x86)
 
-## License
 
-[Include your license here]
